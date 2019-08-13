@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>sc-f-chapter3</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for Spring Boot 666</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
